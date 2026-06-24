@@ -21,3 +21,17 @@ Created an interactive Excel dashboard to analyze sales performance and visualiz
 
 ## Author
 Palakurthi Sri Pujitha
+
+## Dashboard Screenshots
+
+### Dashboard 1
+![Dashboard 1](dashboard-1.png)
+
+### Dashboard 2
+![Dashboard 2](dashboard-2.png)
+
+### Dashboard 3
+![Dashboard 3](dashboard-3.png)
+
+### Dashboard 4
+![Dashboard 4](dashboard-4.png)
